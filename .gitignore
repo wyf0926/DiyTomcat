@@ -9,5 +9,5 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
-lib/hutool-all-4.3.1.jar
+lib/utils-4.3.1.jar
 
