@@ -1,4 +1,4 @@
-package cn.how2j.diytomcat.util;
+package com.wyf.diytomcat.util;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
